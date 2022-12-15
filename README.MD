@@ -25,7 +25,7 @@ git clone https://github.com/inery-blockchain/ineryjs.git
 or
 
 ```
-git clone https://github.com/larasssati/ineryjs.git
+git clone https://github.com/diahlaras/ineryjs.git
 ```
 
 #### Change directory to cloned repository
